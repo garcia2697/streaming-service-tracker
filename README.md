@@ -2,7 +2,7 @@
 # Track Stream
 
 ## Decription
-# Please Give Heroku enough time to load
+# Please give Heroku time to load the website
 # Track Stream's purpose is to keep you notified of all the video streaming services you are subscribed too. The application will give you a visual reminder of how much you're spending on streaming services and when the renewal period starts again. 
 
 
